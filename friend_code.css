@@ -27,3 +27,19 @@ height:2.5em;
 .content-box{
     margin:5%;
 }
+
+@keyframes bounce{
+from {margin-left:0vw;}
+to {margin-left:35vw;}
+    
+}
+
+#photo{
+    animation-name:bounce;
+    animation-duration: 1s;
+    animation-direction: alternate;
+    animation-iteration-count:infinite;
+   {
+
+}
+
