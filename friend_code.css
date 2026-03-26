@@ -1,0 +1,29 @@
+body{ 
+    background: linear-gradient(rgb(0,255,0),rgb(0,0,255));
+    width:100vw;
+    margin:0px;
+}
+#central{
+    background-color:rgb(250,255,254);
+    width: 60vw;
+    margin-left:20vw;
+    margin-right:20vw;
+    margin-top:0px;
+    margin-bottom:0px;
+}
+#title{
+ text-align:center;
+color:white;
+font-size:5em;
+width:70vw;
+margin-left:15vw;
+margin-right:15vw;
+margin-top: 2vh;
+margin-bottom: 2vh; 
+background-color:darkblue;
+height:2.5em;
+}
+
+.content-box{
+    margin:5%;
+}
